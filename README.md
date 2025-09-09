@@ -23,7 +23,7 @@ Content-Type: must start with image/ before saving.
 
 User-Agent: respectful request header.
 
-**Ubuntu Principles Noted and followed**
+**Ubuntu Principles Noted and Followed**
 
 Respectful messages.
 
