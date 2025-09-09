@@ -1,12 +1,12 @@
 # PLPWeek6Assignment
-Features Implemented
-Multiple URLs
+**Features Implemented**
+**Multiple URLs**
 
 Users can paste multiple URLs separated by commas.
 
 The program loops and fetches each image.
 
-Precautions for unknown sources
+**Precautions for unknown sources**
 
 Adds a custom User-Agent header.
 
